@@ -1,0 +1,36 @@
+*{
+    font-family: 'Cairo', sans-serif;;
+}
+body{
+    background-color: #f8f8f8;
+}
+form{
+    position: relative;
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    padding: 10px;
+    margin: 5% auto;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 1px #d2dae2;
+}
+
+
+button{
+    margin-bottom: 10px;
+    width: 80%;
+    margin: 20% auto auto; 
+    display: block;
+    border-radius:  5px;
+    border: 0;
+    padding: 5px;
+    background-color: #05c46b;
+    cursor: pointer;
+    color: white;
+    font-weight: 600px;
+}
+
+button:hover{
+    background-color: #049551;
+}
+
